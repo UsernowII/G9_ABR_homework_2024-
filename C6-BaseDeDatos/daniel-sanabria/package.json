@@ -1,0 +1,21 @@
+{
+  "name": "daniel-sanabria",
+  "version": "1.0.0",
+  "description": "On this API we will place on practice methods like get, post and delete, also explain the diferent routes to get information.\r We will use port 3000.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
